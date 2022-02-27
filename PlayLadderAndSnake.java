@@ -2,9 +2,8 @@ import java.util.Scanner;
 
 /**
  * 
- * COMP249 Assignment # 1 Due Date February 7,2022
  * 
- * @author HARINDER PARTAP SINGH AND 40076200
+ * @author HARINDER PARTAP SINGH 
  *
  */
 public class PlayLadderAndSnake {
